@@ -7,14 +7,23 @@ Founder and builder from Slough, UK. I identify real problems, build solutions a
 ### [Zevio](https://zevio.co.uk) — AI Automation for UK Local Businesses
 > Live product. Paying clients. Built and shipped solo.
 
-Zevio removes 3–4 hours of daily manual work from restaurants, barbers and salons — automating WhatsApp replies, Google reviews, bookings, social media content and online orders.
+**Before Zevio:**
+- Restaurant owners manually replied to 30–50 WhatsApp messages every morning
+- Bookings confirmed late or missed entirely — customers went elsewhere
+- Bad reviews left unanswered — reputation slowly damaged
+- Social media ignored — no time, no consistency
+- No-shows cost revenue every week with no deposit system in place
+
+**After Zevio:**
+- Every WhatsApp message answered instantly, 24/7 — zero manual effort
+- Bookings confirmed automatically with reminders and deposits collected upfront
+- Every Google review gets a professional response — rating improved from 4.1 → 4.7
+- A full month of social content generated in one click
+- No-show rates cut significantly through automated deposit requests
+
+**Result:** Business owners save 3–5 hours per day. Customers get faster responses. Revenue stops leaking.
 
 **Live clients:** Damal Restaurant · Najma Restaurant · Star Barbers London
-
-**Results:**
-- Businesses live within 24 hours of onboarding
-- Google ratings improved from 4.1 → 4.7 through automated review responses
-- No-show rates cut through automated deposit collection
 
 ## How I build
 
